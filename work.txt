@@ -1,2 +1,2 @@
-creat page home
+my name
 creat page setting
